@@ -68,8 +68,7 @@ This project utilizes Recharts for robust and interactive data visualization. Be
 - **BarChart**: 
   - Useful for comparing different groups or tracking changes over time, the BarChart displays data with rectangular bars. Each bar's length or height corresponds to the data values, facilitating straightforward comparison across different categories.
 
-## Styling 
-## Material-UI Components
+ ## Material-UI Components
 
 This project leverages Material-UI to provide a consistent, responsive, and professional UI design. Below is an overview of the key Material-UI components utilized:
 
